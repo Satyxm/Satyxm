@@ -1,4 +1,4 @@
-[![MasterHead](https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af)]
+![MasterHead](https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af)
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 <h3 align="center">A passionate person for DevOps roles from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
