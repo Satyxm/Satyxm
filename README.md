@@ -15,9 +15,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@satys](https://medium.com/@satys)
 
-- 📫 How to reach me **singhsatyam4702@gmail.com**
+- 📫You can reach me on my E-mail - **singhsatyam4702@gmail.com**
 
-- ⚡ Fun fact **Sometimes Introvert, Sometimes Extrovert.**
+- ⚡ Fun fact - **Active, but Sleepy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
