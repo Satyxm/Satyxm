@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devfolio.co/@satyamsingh1](https://devfolio.co/@satyamsingh1)
 
-- 📝 I regularly write articles on [https://medium.com/@satys](https://medium.com/@satys)
+- 📝 I write weekly articles on [https://medium.com/@satys](https://medium.com/@satys)
 
 - 📫You can reach me on my E-mail - **singhsatyam4702@gmail.com**
 
