@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyxm&label=Profile%20views&color=0e75b6&style=flat" alt="satyxm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/wisatyam" target="blank"><img src="https://img.shields.io/twitter/follow/wisatyam?logo=twitter&style=for-the-badge" alt="wisatyam" /></a> </p>
+<p align="left"> <a href="https://twitter.com/satyamtwts" target="blank"><img src="https://img.shields.io/twitter/follow/wisatyam?logo=twitter&style=for-the-badge" alt="satyamtwts" /></a> </p>
 
 - 🌱 I’m currently learning **Kubernetes**
 
