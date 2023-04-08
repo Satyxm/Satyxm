@@ -20,7 +20,7 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/satyxm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="satyxm" height="30" width="40" /></a>
-<a href="https://twitter.com/wisatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wisatyam" height="30" width="40" /></a>
+<a href="https://twitter.com/satyamtwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamtwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyam-singh-28ab70227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-singh-28ab70227" height="30" width="40" /></a>
 <a href="https://instagram.com/cnqxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cnqxr" height="30" width="40" /></a>
 <a href="https://hashnode.com/@btwitssatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@btwitssatyam" height="30" width="40" /></a>
