@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-<h1 align="center">Bonjour 🙋🏼‍♂️ , I'm Satyam Singh</h1>
-<h3 align="center">Open Source Contributor 🚀 | EddieHub | DevOps Enthusiast</h3>
+<h1 align="center">Hey Folks! 🙋🏻‍♂️ , I'm Satyam Singh</h1>
+<h3 align="center">Open Source Contributor 🚀 | Self-Taught 📈 | Blogger 📝 | DevOps Enthusiast 🐳 | Learning In Public 🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyxm&label=Profile%20views&color=0e75b6&style=flat" alt="satyxm" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻
 Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
-- ✍🏻 I write weekly articles on [Medium](https://medium.com/@satys) and [Hashnode](https://satyams.hashnode.dev/)
+- ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/) and [Medium](https://medium.com/@satys)
 
 - 📧 You can reach me on my E-mail - **satyamsingh.officialwork@gmail.com** 
 
