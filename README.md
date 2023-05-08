@@ -17,7 +17,7 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 
 - 📧 You can reach me on my E-mail - **satyamsingh.officialwork@gmail.com** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://dev.to/satyxm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="satyxm" height="30" width="40" /></a>
 <a href="https://twitter.com/satyamtwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamtwts" height="30" width="40" /></a>
