@@ -39,3 +39,5 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 <p><img align="center" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=Satyxm&theme=tokyonight&hide_border=false" alt="satyxm" /></p>
 
 <a href="https://app.daily.dev/SatyamSingh9"><img src="https://api.daily.dev/devcards/287f3590da9f4d19b90bf8bc441fb834.png?r=dpr" width="400" alt="Satyam Singh's Dev Card"/></a>
+![github-user-contribution](https://github.com/Satyxm/Satyxm/assets/97077594/efbd3cdf-d204-42eb-99b7-9c1895790909)
+
