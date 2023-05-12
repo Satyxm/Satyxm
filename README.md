@@ -38,7 +38,8 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 
   
 
-<p><img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=satyxm&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="satyxm" /></p>
+<p><img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=satyxm&theme=dark&show_icons=true" alt="satyxm" /></p>
+
 
 <p><img align="center" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=Satyxm&theme=tokyonight&hide_border=false" alt="satyxm" /></p>
 
