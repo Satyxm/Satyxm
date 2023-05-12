@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-<h1 align="center">Hey Folks! 🙋🏻‍♂️ , I'm Satyam Singh</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=B332F7&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Satyam+Singh;Constantly+Learning+and+Upskilling!;Thanks+for+Visiting+My+Profile+%F0%9F%8C%9F" alt="Typing SVG" /></a></h1>
 <h3 align="center">Open Source Contributor 🚀 | Self-Taught 📈 | Blogger📝 | DevOps Enthusiast 🐳 | Learning In Public 🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
