@@ -21,6 +21,8 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 
 - 📧 You can reach me on my E-mail - **satyamsingh.officialwork@gmail.com** 
 
+---------------------------------
+
 <h3 align="left">Find me on my Socials 🌏 and Let's Connect 🫱🏼‍🫲🏼 </h3>
 <p align="left">
 <a href="https://dev.to/satyxm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="satyxm" height="30" width="40" /></a>
@@ -32,11 +34,33 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 <a href="https://discord.gg/cnqxr#4834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cnqxr#4834" height="30" width="40" /></a>
 </p>
 
+----------------------------------------------------------
 
 <h3 align="left">TechStacks:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img m  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a/p>
-
   
+  ----------------------------------------------------------
+
+  ### 🐧💻 What I am Currently Working On:
+  - [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
+  - [Learning in Public](https://github.com/Satyxm/satyamsingh)
+  
+  ----------------------------------------------------------
+  
+  ### 🌟📈 My Latest Contributions: 
+  
+  - [Just having fun!](https://github.com/firstcontributions/first-contributions/pull/67323)
+  - [Contributed to dailydotdev](https://github.com/dailydotdev/daily/pull/885)
+  - [Cal.com Contribution!](https://github.com/calcom/cal.com/pull/8679)
+  
+  ----------------------------------------------------------
+  
+  ### 🔥 What I am building lately:
+  
+  - Building a E-Portfolio, Will host it soon!
+  - I am Thinking of Creating a Website to brush up my Frontend Skills, (Website Hint: Its about COC! 😶‍🌫️)
+  
+  ----------------------------------------------------------
 
 <p><img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=satyxm&theme=dark&show_icons=true" alt="satyxm" /></p>
 
