@@ -55,10 +55,10 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
   
   ----------------------------------------------------------
   
-  ### 🔥 What I am building lately:
+  ### 🔥 What I am building/built lately:
   
   - Building a E-Portfolio, Will host it soon!
-  - I am Thinking of Creating a Website to brush up my Frontend Skills, (Website Hint: Its about COC! 😶‍🌫️)
+  - [COC Website Frontend Using HTML AND CSS Only](https://satyxm.github.io/splashcoc.github.io/)
   
   ----------------------------------------------------------
 
