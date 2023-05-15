@@ -64,13 +64,17 @@
   -  **satyamsingh.officialwork@gmail.com** 
   
   ----------------------------------------------------------
+  
+  <a href="https://app.daily.dev/SatyamSingh9"><img align="right" width="230" src="https://api.daily.dev/devcards/287f3590da9f4d19b90bf8bc441fb834.png?r=dpr" alt="Satyam Singh's Dev Card"/></a>
 
 <p><img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=satyxm&theme=dark&show_icons=true" alt="satyxm" /></p>
 
 
 <p><img align="center" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=Satyxm&theme=dark&show_icons=true" alt="satyxm" /></p>
 
-<a href="https://app.daily.dev/SatyamSingh9"><img src="https://api.daily.dev/devcards/287f3590da9f4d19b90bf8bc441fb834.png?r=dpr" width="400" alt="Satyam Singh's Dev Card"/></a>
+
+
+
 
 [![Satyam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyxm&bg_color=000000&color=ffffff&line=19eb0a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![github-user-contribution](https://github.com/Satyxm/Satyxm/assets/97077594/efbd3cdf-d204-42eb-99b7-9c1895790909)
