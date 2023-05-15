@@ -57,9 +57,11 @@
   - Building a E-Portfolio, Will host it soon!
   - [COC Website Frontend Using HTML AND CSS](https://satyxm.github.io/splashcoc.github.io/)
   
+   ----------------------------------------------------------
+  
   ### 📧 You can reach me on my E-mail:
   
-   **satyamsingh.officialwork@gmail.com** 
+  -  **satyamsingh.officialwork@gmail.com** 
   
   ----------------------------------------------------------
 
