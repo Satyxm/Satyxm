@@ -5,7 +5,7 @@
 
 
 <h3 align="center">Open Source Contributor 🚀 | Self-Taught 📈 | Blogger📝 | DevOps Enthusiast 🐳 | Learning In Public 🌟 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyxm&label=Profile%20views&color=0e75b6&style=flat" alt="satyxm" /> </p>
 
