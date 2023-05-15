@@ -15,11 +15,8 @@
 
 - 🫱🏼‍🫲🏼 I’m looking to collaborate on **Open Source Projects** and Team Up for **Online Hackathons!**
 
-- 👨🏻‍💻
-Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
 - ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/) and [Medium](https://medium.com/@satys)
 
-- 📧 You can reach me on my E-mail - **satyamsingh.officialwork@gmail.com** 
 
 ---------------------------------
 
@@ -59,6 +56,10 @@ Currently working on [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
   
   - Building a E-Portfolio, Will host it soon!
   - [COC Website Frontend Using HTML AND CSS](https://satyxm.github.io/splashcoc.github.io/)
+  
+  ### 📧 You can reach me on my E-mail:
+  
+   **satyamsingh.officialwork@gmail.com** 
   
   ----------------------------------------------------------
 
