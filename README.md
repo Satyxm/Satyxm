@@ -15,7 +15,7 @@
 
 - 🫱🏼‍🫲🏼 I’m looking to collaborate on **Open Source Projects** and Team Up for **Online Hackathons!**
 
-- ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/) and [Medium](https://medium.com/@satys)
+- ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/)
 
 
 ---------------------------------
