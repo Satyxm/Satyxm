@@ -39,16 +39,7 @@
   ----------------------------------------------------------
 
   ### 🐧💻 What I am Currently Working On:
-  - [Simply Linux Repo](https://github.com/Satyxm/Simply-Linux)
-  - [Learning in Public](https://github.com/Satyxm/satyamsingh)
-  
-  ----------------------------------------------------------
-  
-  ### 🌟📈 My Latest Contributions: 
-  
-  - [Just having fun!](https://github.com/firstcontributions/first-contributions/pull/67323)
-  - [Contributed to dailydotdev](https://github.com/dailydotdev/daily/pull/885)
-  - [Cal.com Contribution!](https://github.com/calcom/cal.com/pull/8679)
+  - [Crave](https://crave-beige.vercel.app/)
   
   ----------------------------------------------------------
   
