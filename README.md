@@ -11,11 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/satyamtwts" target="blank"><img src="https://img.shields.io/twitter/follow/satyamtwts?logo=twitter&style=for-the-badge" alt="satyamtwts" /></a> </p>
 
-- 💻 I’m currently learning [**Go**](https://go.dev/)
-
 - 🫱🏼‍🫲🏼 I’m looking to collaborate on **Open Source Projects** and Team Up for **Online Hackathons!**
 
-- ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/)
+- ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/) and [Dev.to](https://dev.to/satyxm)
 
 
 ---------------------------------
@@ -68,6 +66,6 @@
 
 
 
-[![Satyam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=satyxm&bg_color=000000&color=ffffff&line=19eb0a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyxm&bg_color=000000&color=ffffff&line=00ff11&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![github-user-contribution](https://github.com/Satyxm/Satyxm/assets/97077594/efbd3cdf-d204-42eb-99b7-9c1895790909)
 
