@@ -57,10 +57,10 @@
   
   <a href="https://app.daily.dev/SatyamSingh9"><img align="right" width="230" src="https://api.daily.dev/devcards/287f3590da9f4d19b90bf8bc441fb834.png?r=dpr" alt="Satyam Singh's Dev Card"/></a>
 
-<p><img align="center" width=380 src="https://github-readme-stats.vercel.app/api?username=satyxm&theme=dark&show_icons=true" alt="satyxm" /></p>
+![satyxm's Stats](https://github-readme-stats.vercel.app/api?username=satyxm&theme=radical&show_icons=true&hide_border=false&count_private=false)
 
 
-<p><img align="center" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=Satyxm&theme=dark&show_icons=true" alt="satyxm" /></p>
+![satyxm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyxm&theme=radical&hide_border=false)
 
 
 
