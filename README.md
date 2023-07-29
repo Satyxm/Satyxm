@@ -70,3 +70,6 @@
 
 ![github-user-contribution](https://github.com/Satyxm/Satyxm/assets/97077594/33950230-68be-4069-a97a-690177a11d5d)
 
+<div style="text-align: center;">
+  <p>Made with 💚 Satyam Singh</p>
+</div>
