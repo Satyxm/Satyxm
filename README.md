@@ -25,7 +25,7 @@
 <a href="https://twitter.com/satyamtwts" target="blank"><img align="center" src="https://github.com/Satyxm/Satyxm/assets/97077594/9d49d2f0-b4e9-40e0-aae6-cfa6bff76ab9" alt="satyamtwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyam-singh-28ab70227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-singh-28ab70227" height="30" width="40" /></a>
 <a href="https://satyams.hashnode.dev/" target="blank"><img align="center" src="https://github.com/Satyxm/Satyxm/assets/97077594/fe6f0174-5c63-4566-a846-d842566df22e" alt="@btwitssatyam" height="30" width="40" /></a>
-<a href="https://medium.com/@satys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@satys" height="30" width="40" /></a>
+<a href="https://medium.com/@satys" target="blank"><img align="center" src="https://github.com/Satyxm/Satyxm/assets/97077594/a1b93fd2-7ffb-49ff-befe-a9161c540afa" alt="@satys" height="30" width="40" /></a>
 
 </p>
 
