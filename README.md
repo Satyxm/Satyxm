@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/satyamtwts" target="blank"><img src="https://img.shields.io/twitter/follow/satyamtwts?logo=twitter&style=for-the-badge" alt="satyamtwts" /></a> </p>
 
-- 🫱🏼‍🫲🏼 I’m looking to collaborate on **Open Source Projects** and Team Up for **Online Hackathons!**
+- 🫱🏼‍🫲🏼 I am looking to collaborate on **Open Source Projects** and Team Up for **Online Hackathons!**
 
 - ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/) and [Dev.to](https://dev.to/satyxm)
 
