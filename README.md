@@ -13,7 +13,7 @@
 
 - 🫱🏼‍🫲🏼 I am looking to collaborate on **Open Source Projects** and Team Up for **Online Hackathons!**
 
-- ✍🏻 I write weekly articles on [Hashnode](https://satyams.hashnode.dev/) and [Dev.to](https://dev.to/satyxm)
+- ✍🏻 I write articles on [Hashnode](https://satyams.hashnode.dev/) and [Dev.to](https://dev.to/satyxm)
 
 
 ---------------------------------
