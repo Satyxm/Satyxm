@@ -1,9 +1,13 @@
 <img src="https://github.com/user-attachments/assets/9216c901-7956-4f4c-a1e7-8d1b8cbd6374" alt="header_" />
 
-<h1>
-  Hi, Satyam this side!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<div align="center">
+  <h1>
+    Hi, Satyam this side!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </h1>
+</div>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=satyxm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -51,7 +55,10 @@ Here are some of my featured projects:
 <br/>
 <br/>
 
-Made with ❤️ by [Satyam Singh](https://github.com/satyxm)
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/satyxm">Satyam Singh</a>
+</div>
+
 
 <br/>
 
