@@ -36,12 +36,17 @@ Here are some of my featured projects:
 
 ## Connect with me:
 
+<a href="mailto:satyamsingh.officialwork@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 <a href="https://x.com/satyamtwts">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 <a href="https://linkedin.com/satyams-in">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 
 <br/>
 <br/>
