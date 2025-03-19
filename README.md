@@ -30,6 +30,10 @@ Here are some of my featured projects:
 
 <br/>
 
+> I have not added any tech stack because i have my fundamentals cleared and i can pickup and learn any tech or tool very rapidly in this demanding tech landscape :)
+
+<br/>
+
 ## Connect with me:
 
 <a href="https://x.com/satyamtwts">
