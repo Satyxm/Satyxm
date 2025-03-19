@@ -24,6 +24,7 @@ Here are some of my featured projects:
 | **Educational Project** | [Open Source Education - Website](https://open-source-matrix.vercel.app/) |
 | **Machine Learning** | [Customer Churn](https://github.com/Satyxm/customer-churn) |
 | **DevOps** | [Golang Microservice](https://github.com/Satyxm/goMicroservice) |
+| **One of my earliest web project (It's broken lol)** | [Clash of Clans - Website](https://satyxm.github.io/splashcoc.github.io/) |
 | **First Portfolio I Made** | [Nostalgic :) ](https://satyam-s-portfolio.vercel.app/) |
 
 
