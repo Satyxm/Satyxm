@@ -20,16 +20,17 @@ Here are some of my featured projects:
 | Category              | Project Name & Link |
 |----------------------|---------------------|
 | **Machine Learning** | [Movie Recommender System](https://reelarity.streamlit.app/) |
-| **Full Stack** | [Crave - Foodies Social Application](https://crave-beige.vercel.app/) |
-| **Portfolio** | [Responsive Website](https://satyamsportfolio.vercel.app/) |
-| **Personal Project** | [Thread Previewer](https://thread-previewer.vercel.app/) |
 | **Machine Learning** | [Olympics 2024 Complete Analysis](https://github.com/Satyxm/ml-projects/tree/main/ml-olympics) |
-| **Fun Project** | [PawfectPics - Cute Paws](https://pawfectpics.vercel.app/) |
-| **Educational Project** | [Open Source Education - Website](https://open-source-matrix.vercel.app/) |
 | **Machine Learning** | [Customer Churn](https://github.com/Satyxm/customer-churn) |
+| **Full Stack** | [Crave - Foodies Social Application](https://crave-beige.vercel.app/) |
 | **DevOps** | [Golang Microservice](https://github.com/Satyxm/goMicroservice) |
-| **One of my earliest web project (It's broken lol)** | [Clash of Clans - Website](https://satyxm.github.io/splashcoc.github.io/) |
+| **Educational Project** | [Open Source Education - Website](https://open-source-matrix.vercel.app/) |
+| **Personal Project** | [Thread Previewer](https://thread-previewer.vercel.app/) |
+| **Fun Project** | [PawfectPics - Cute Paws](https://pawfectpics.vercel.app/) |
+| **Portfolio** | [Responsive Website](https://satyamsportfolio.vercel.app/) |
+| **One of my earliest web projects (It's broken lol)** | [Clash of Clans - Website](https://satyxm.github.io/splashcoc.github.io/) |
 | **First Portfolio I Made** | [Nostalgic :) ](https://satyam-s-portfolio.vercel.app/) |
+
 
 
 <br/>
