@@ -20,7 +20,7 @@ Here are some of my featured projects:
 | Category              | Project Name & Link |
 |----------------------|---------------------|
 | **Machine Learning** | [Movie Recommender System](https://reelarity.streamlit.app/) |
-| **Machine Learning** | [Olympics 2024 Complete Analysis](https://github.com/Satyxm/ml-projects/tree/main/ml-olympics) |
+| **Machine Learning** | [Olympics 2024 Complete Analysis](https://satyxm-ml-projects-ml-olympicsapp-dhpmep.streamlit.app/) |
 | **Machine Learning** | [Customer Churn](https://github.com/Satyxm/customer-churn) |
 | **Full Stack** | [Crave - Foodies Social Application](https://crave-beige.vercel.app/) |
 | **DevOps** | [Golang Microservice](https://github.com/Satyxm/goMicroservice) |
