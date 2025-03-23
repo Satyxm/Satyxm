@@ -35,7 +35,51 @@ Here are some of my featured projects:
 
 <br/>
 
-> I have not added any tech stack because i have my fundamentals cleared and i can pickup and learn any tech or tool very rapidly in this demanding tech landscape :)
+## Technologies I work with (not limited only to these i.e always learning and upskilling): 
+
+<div>
+
+  <br/>
+
+  ### Programming and Data
+  
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=golang" />
+  <img src="https://skillicons.dev/icons?i=rust" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=graphql" />
+</div>
+
+
+<div>
+   
+  <br/>
+
+  ### AI-ML
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</div>
+
+
+<div>
+
+  <br/>
+
+  ### DevOps
+ <img src="https://skillicons.dev/icons?i=kubernetes" />
+ <img src="https://skillicons.dev/icons?i=docker" />
+ <img src="https://skillicons.dev/icons?i=grafana" />
+ <img src="https://skillicons.dev/icons?i=aws" />
+ <img src="https://skillicons.dev/icons?i=jenkins" />
+ <img src="https://skillicons.dev/icons?i=git" />
+</div>
+
+and more...
 
 <br/>
 
