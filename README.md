@@ -101,9 +101,11 @@ and more...
 <br/>
 
 <div align="center">
-  Made with ❤️ by <a target="_blank" rel="noopener noreferrer" href="https://cnqxr.vercel.app">Satyam Singh</a>
+  Made with ❤️ by 
+  <a href="https://cnqxr.vercel.app" onclick="window.open(this.href, '_blank'); return false;">
+    Satyam Singh
+  </a>
 </div>
-
 
 
 <br/>
