@@ -101,8 +101,14 @@ and more...
 <br/>
 
 <div align="center">
-  Made with ❤️ by <a target="_blank" href="https://cnqxr.vercel.app">Satyam Singh</a>
+  Made with ❤️ by <a target="_blank" href="https://x.com/satyamtwts">Satyam Singh</a>
 </div>
+
+
+<!-- 
+  Made with ❤️ by [Satyam Singh](https://cnqxr.vercel.app) 
+  (center-aligned in HTML)
+-->
 
 
 <br/>
