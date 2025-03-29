@@ -101,7 +101,7 @@ and more...
 <br/>
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/satyxm">Satyam Singh</a>
+  Made with ❤️ by <a target="_blank" href="https://cnqxr.vercel.app">Satyam Singh</a>
 </div>
 
 
