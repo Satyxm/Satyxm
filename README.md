@@ -1,5 +1,5 @@
 ## Sup?, I'm <a href="https://x.com/satyamtwts" target="_blank">Satyam</a>!
-(Use dark theme to find my socials ;)
+(deed pays but code pays much better ;)
 
 <a href="https://satyamsportfolio.vercel.app" target="_blank"><img align="left" alt="Satyam" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/satyams-in" target="_blank"><img align="left" alt="Satyam | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
