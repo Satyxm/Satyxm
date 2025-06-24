@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
 
 <img src="https://github.com/user-attachments/assets/9216c901-7956-4f4c-a1e7-8d1b8cbd6374" alt="header_" />
 
@@ -37,6 +32,12 @@ Here are some of my featured projects:
 | **One of my earliest web projects (It's broken lol)** | [Clash of Clans - Website](https://satyxm.github.io/splashcoc.github.io/) |
 | **First Portfolio I Made** | [Nostalgic :) ](https://satyam-s-portfolio.vercel.app/) |
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
 
 <br/>
